@@ -1,3 +1,3 @@
 topcoder
 ========
-yatc's TopCoder repository
+Yatc's TopCoder repository
